@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Echoes of Power and Chaos - resource pack",
+        "name": "Echoes of Power and Chaos - Resource Pack",
+        "uuid": "39f6bf55-8b39-4090-af61-95b158c81939",
+        "version": [0, 0, 2],
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "Echoes of Power and Chaos - resource pack",
+            "type": "resources",
+            "uuid": "f63306aa-2fa4-4169-9279-2624dbcba10a",
+            "version": [0, 0, 2]
+        }
+    ]
+}

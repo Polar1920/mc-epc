@@ -1,0 +1,30 @@
+{
+  "resource_pack_name": "Echoes of Power Resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "salchicha": {
+      "textures": "textures/items/salchicha"
+    },
+    "salchicha_cocinada": {
+      "textures": "textures/items/salchicha_cocinada"
+    },
+    "fragmento_agua": {
+      "textures": "textures/items/fragmento_agua"
+    },
+    "fragmento_hielo": {
+      "textures": "textures/items/fragmento_hielo"
+    },
+    "fragmento_fuego": {
+      "textures": "textures/items/fragmento_fuego"
+    },
+    "fragmento_bosque": {
+      "textures": "textures/items/fragmento_bosque"
+    },
+    "fragmento_oscuridad": {
+      "textures": "textures/items/fragmento_oscuridad"
+    },
+    "fragmento_luz": {
+      "textures": "textures/items/fragmento_luz"
+    }
+  }
+}
