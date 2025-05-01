@@ -1,0 +1,14 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "epc:salchicha_cocinada_recipe"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "epc:salchicha_cruda",
+        "output": "epc:salchicha_cocinada",
+        "cooking_time": 200
+    }
+}

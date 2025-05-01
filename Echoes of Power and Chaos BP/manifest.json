@@ -1,0 +1,63 @@
+{
+    "format_version": 2,
+    "metadata": {
+		"authors": [
+			"polar"
+		]
+	},
+    "header": {
+        "description": "Echoes of Power and Chaos - Behavior Pack",
+        "name": "Echoes of Power and Chaos - Behavior Pack",
+        "uuid": "4c385f32-fe2b-449b-9784-1ca88141aa74",
+        "version": [
+            0,
+            0,
+            2
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Echoes of Power and Chaos - Behavior Pack",
+            "type": "data",
+            "uuid": "be861055-632e-43c9-9009-778aea9013c3",
+            "version": [
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "f2ae4cd4-46d1-4581-9981-07fd05420458",
+            "version": [
+                0,
+                0,
+                2
+            ],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.18.0"
+        },
+        {
+            "uuid": "39f6bf55-8b39-4090-af61-95b158c81939",
+            "version": [
+                0,
+                0,
+                2
+            ]
+        }
+    ],
+    "capabilities": [
+        "experimental_custom_events"
+    ]
+}

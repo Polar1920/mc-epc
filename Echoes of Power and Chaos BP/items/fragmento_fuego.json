@@ -1,0 +1,17 @@
+{
+    "format_version": "1.21.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "epc:fragmento_fuego",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:icon": "fragmento_fuego",
+            "minecraft:display_name": {
+                "value": "item.epc.fragmento_fuego"
+            }
+        }
+    }
+}
